@@ -1,0 +1,13 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>http://usbupdate.servehttp.com/support/|F:\Development Projects\Burger King\Coding\Start\publish\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://usbupdate.servehttp.com/support/|http://maintenance.no-ip.org/support/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>http://maintenance.no-ip.org/support/|http://maintenance.ni-ip.org/support/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

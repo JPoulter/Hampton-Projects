@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{50A2DD3E-6836-4FA1-921C-73115057E09A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Start.My.MyApplication</StartupObject>
+    <RootNamespace>Start</RootNamespace>
+    <AssemblyName>Start</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>book-icon32.ico</ApplicationIcon>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>10CB9582C7B09F6DEC6BAC951CAC3C221F49DEEB</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Start_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetZone>LocalIntranet</TargetZone>
+    <PublishUrl>http://usbupdate.servehttp.com/support/</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://maintenance.no-ip.org/support/</UpdateUrl>
+    <TargetCulture>en-US</TargetCulture>
+    <ProductName>In-A-Flash™</ProductName>
+    <PublisherName>Hampton Consulting, LLC.</PublisherName>
+    <MinimumRequiredVersion>1.0.0.1</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Start.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Start.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoUpdate, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Release\AutoUpdate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AutoUpdate.vb" />
+    <Compile Include="changeTCPassword.Designer.vb">
+      <DependentUpon>changeTCPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changeTCPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkStatus.vb" />
+    <Compile Include="encryption.vb" />
+    <Compile Include="eula.Designer.vb">
+      <DependentUpon>eula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="eula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="globalVariables.vb" />
+    <Compile Include="inaflashFunctions.vb" />
+    <Compile Include="iniFile.vb" />
+    <Compile Include="installTC.Designer.vb">
+      <DependentUpon>installTC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="installTC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="installTCgeneric.Designer.vb">
+      <DependentUpon>installTCgeneric.vb</DependentUpon>
+    </Compile>
+    <Compile Include="installTCgeneric.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="register_restaurant.Designer.vb">
+      <DependentUpon>register_restaurant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="register_restaurant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register_usb.Designer.vb">
+      <DependentUpon>register_usb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="register_usb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectLanguage.Designer.vb">
+      <DependentUpon>selectLanguage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="selectLanguage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="typeOfRegistration.Designer.vb">
+      <DependentUpon>typeOfRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="typeOfRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.vb">
+      <DependentUpon>update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="changeTCPassword.resx">
+      <DependentUpon>changeTCPassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eula.resx">
+      <DependentUpon>eula.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="installTC.resx">
+      <DependentUpon>installTC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="installTCgeneric.resx">
+      <DependentUpon>installTCgeneric.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register_restaurant.resx">
+      <DependentUpon>register_restaurant.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register_usb.fr.resx">
+      <DependentUpon>register_usb.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register_usb.resx">
+      <DependentUpon>register_usb.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectLanguage.resx">
+      <DependentUpon>selectLanguage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="typeOfRegistration.resx">
+      <DependentUpon>typeOfRegistration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="book-icon16.ico" />
+    <Content Include="book-icon32.ico" />
+    <Content Include="book-open-text-image.ico" />
+    <Content Include="book-open.ico" />
+    <Content Include="favicon.ico" />
+    <None Include="Resources\register_to_person.jpg" />
+    <None Include="Resources\register_to_restaurant.jpg" />
+    <None Include="Resources\reload.png" />
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\window-close.png" />
+    <None Include="Resources\unzip_to_usb.gif" />
+    <None Include="Resources\unzip_to_server.gif" />
+    <None Include="Resources\download_to_usb2.gif" />
+    <None Include="Resources\download_to_server.gif" />
+    <None Include="Resources\full_world_background.jpg" />
+    <None Include="Resources\small_world_background.png" />
+    <None Include="Resources\unzip_to_usb.png" />
+    <None Include="Resources\unzip_to_server.png" />
+    <None Include="Resources\download_to_usb.png" />
+    <None Include="Resources\download_to_server.png" />
+    <None Include="Resources\messagebox_warning.png" />
+    <None Include="Resources\manydownload.png" />
+    <None Include="Resources\9download.png" />
+    <None Include="Resources\8download.png" />
+    <None Include="Resources\7download.png" />
+    <None Include="Resources\6download.png" />
+    <None Include="Resources\5download.png" />
+    <None Include="Resources\4download.png" />
+    <None Include="Resources\3download.png" />
+    <None Include="Resources\2download.png" />
+    <None Include="Resources\1download.png" />
+    <None Include="Resources\no_help1.png" />
+    <None Include="Resources\no_download1.png" />
+    <None Include="Resources\no_help.png" />
+    <None Include="Resources\copy-icon.png" />
+    <None Include="Resources\editcut.png" />
+    <None Include="My Project\DataSources\register_usb.datasource" />
+    <None Include="Resources\flag_yellow.png" />
+    <None Include="Resources\flag_red.png" />
+    <None Include="Resources\flag_green.png" />
+    <None Include="Resources\button_ok1.png" />
+    <None Include="Resources\headline_background.jpg" />
+    <None Include="Resources\mono_world_background.jpg" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\exit1.png" />
+    <None Include="Resources\help1.png" />
+    <None Include="Resources\button_ok.png" />
+    <None Include="Resources\desktop.png" />
+    <None Include="Resources\usb.png" />
+    <None Include="Resources\help.png" />
+    <None Include="Resources\bk_training.jpg" />
+    <None Include="Resources\exit.png" />
+    <None Include="Start_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Acrobat">
+      <Guid>{E64169B3-3592-47D2-816E-602C5C13F328}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
