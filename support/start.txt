@@ -1,0 +1,347 @@
+﻿<data name="Prompt01" xml:space="preserve">
+	<value>Операционные ресурсы Burger King®</value>
+</data>
+<data name="Prompt02" xml:space="preserve">
+	<value>Шифрование введено</value>
+</data>
+<data name="Prompt03" xml:space="preserve">
+	<value>Шифрование не введено</value>
+</data>
+<data name="Prompt04" xml:space="preserve">
+	<value>Введите свой пароль</value>
+</data>
+<data name="Prompt05" xml:space="preserve">
+	<value>Руководство по эксплуатации</value>
+</data>
+<data name="Prompt06" xml:space="preserve">
+	<value>Обучение RightTRACK</value>
+</data>
+<data name="Prompt07" xml:space="preserve">
+	<value>Обновление</value>
+</data>
+<data name="Prompt08" xml:space="preserve">
+	<value>Как вы открываете эту программу?</value>
+</data>
+<data name="Prompt09" xml:space="preserve">
+	<value>USB</value>
+</data>
+<data name="Prompt10" xml:space="preserve">
+	<value>Компьютер ресторана</value>
+</data>
+<data name="Prompt12" xml:space="preserve">
+	<value>Номер квартиры</value>
+</data>
+<data name="Prompt13" xml:space="preserve">
+	<value>Похоже, что вы не подключены к Интернету.  Сейчас вы не можете</value></data>	<data name="закончит" xml:space="preserve">
+		<value>регистрацию или обновить программы.</value>
+	</data>
+<data name="Prompt14" xml:space="preserve">
+	<value>Если при следующем использовании этой программы вы будете</value></data>	<data name="подключе" xml:space="preserve">
+		<value>ы к сети, вы сможете завершить регистрацию.</value>
+	</data>
+<data name="Prompt15" xml:space="preserve">
+	<value>Необходимо перезагрузить программу для обновления процесса</value>
+</data>
+<data name="Prompt16" xml:space="preserve">
+	<value>Работа по USB</value>
+</data>
+<data name="Prompt17" xml:space="preserve">
+	<value>Работа компьютера ресторана</value>
+</data>
+<data name="Prompt18" xml:space="preserve">
+	<value>Это верно?</value>
+</data>
+<data name="Prompt19" xml:space="preserve">
+	<value>Вы не можете использовать эту программу, пока она не зарегистрирована.  Вы будете видеть страницу регистрации, пока не будет завершен процесс.</value>
+</data>
+<data name="Prompt20" xml:space="preserve">
+	<value>Для должного функционирования этого контента необходим Adobe Flash Player.</value>
+</data>
+<data name="Prompt21" xml:space="preserve">
+	<value>Выйти из программы</value>
+</data>
+<data name="Prompt22" xml:space="preserve">
+	<value>Просмотреть Руководство по эксплуатации</value>
+</data>
+<data name="Prompt23" xml:space="preserve">
+	<value>Нажав "ОК", НЕ СОВЕРШАЙТЕ никаких действий на этом компьютере, пока не завершится процесс!</value>
+</data>
+<data name="Prompt24" xml:space="preserve">
+	<value>Доступна более новая версия программы!</value>
+</data>
+<data name="Prompt25" xml:space="preserve">
+	<value>Помощь по этой программе</value>
+</data>
+<data name="Prompt26" xml:space="preserve">
+	<value>Подсказка...</value>
+</data>
+<data name="Prompt27" xml:space="preserve">
+	<value>Информация о программе</value>
+</data>
+<data name="Prompt28" xml:space="preserve">
+	<value>Операционный статус программы</value>
+</data>
+<data name="Prompt29" xml:space="preserve">
+	<value>После завершения вытащите USB</value>
+</data>
+<data name="Prompt30" xml:space="preserve">
+	<value>Корпоративный компьютер</value>
+</data>
+<data name="Prompt31" xml:space="preserve">
+	<value>Компьютер франшизы</value>
+</data>
+<data name="Prompt32" xml:space="preserve">
+	<value>Внимание!</value>
+</data>
+<data name="Prompt33" xml:space="preserve">
+	<value>Версия</value>
+</data>
+<data name="Prompt34" xml:space="preserve">
+	<value>Язык</value>
+</data>
+<data name="Prompt35" xml:space="preserve">
+	<value>Серийный номер</value>
+</data>
+<data name="Prompt36" xml:space="preserve">
+	<value>Регистрация</value>
+</data>
+<data name="Prompt37" xml:space="preserve">
+	<value>Вы выбрали</value>
+</data>
+<data name="Prompt38" xml:space="preserve">
+	<value>Подождите...</value>
+</data>
+<data name="Prompt39" xml:space="preserve">
+	<value>Вы зарегистрировали свою программу.</value>
+</data>
+<data name="Prompt40" xml:space="preserve">
+	<value>Выбрать номер ресторана</value>
+</data>
+<data name="Prompt41" xml:space="preserve">
+	<value>Информация о ресторане</value>
+</data>
+<data name="Prompt42" xml:space="preserve">
+	<value>Имя</value>
+</data>
+<data name="Prompt43" xml:space="preserve">
+	<value>Фамилия</value>
+</data>
+<data name="Prompt44" xml:space="preserve">
+	<value>Рабочий адрес</value>
+</data>
+<data name="Prompt45" xml:space="preserve">
+	<value>Страна</value>
+</data>
+<data name="Prompt46" xml:space="preserve">
+	<value>Город</value>
+</data>
+<data name="Prompt47" xml:space="preserve">
+	<value>Штат</value>
+</data>
+<data name="Prompt48" xml:space="preserve">
+	<value>Индекс</value>
+</data>
+<data name="Prompt49" xml:space="preserve">
+	<value>Электронный адрес</value>
+</data>
+<data name="Prompt50" xml:space="preserve">
+	<value>Ассоциация</value>
+</data>
+<data name="Prompt51" xml:space="preserve">
+	<value>Операционный уровень</value>
+</data>
+<data name="Prompt52" xml:space="preserve">
+	<value>Название должности</value>
+</data>
+<data name="Prompt53" xml:space="preserve">
+	<value>Название франшизы</value>
+</data>
+<data name="Prompt54" xml:space="preserve">
+	<value>Зарегистрировать</value>
+</data>
+<data name="Prompt55" xml:space="preserve">
+	<value>Необходимо</value>
+</data>
+<data name="Prompt56" xml:space="preserve">
+	<value>OK</value>
+</data>
+<data name="Prompt57" xml:space="preserve">
+	<value>Отсутствует</value>
+</data>
+<data name="Prompt58" xml:space="preserve">
+	<value>Вы зарегистрировали свой USB.</value>
+</data>
+<data name="Prompt59" xml:space="preserve">
+	<value>Скорее всего, это неверный электронный адрес.  Повторите попытку.</value>
+</data>
+<data name="Prompt60" xml:space="preserve">
+	<value>Измените свой пароль</value>
+</data>
+<data name="Prompt61" xml:space="preserve">
+	<value>Пароль предоставляет вам безопасный доступ и защищает операционные ресурсы на этом USB.  Запомните пароль и запишите его в безопасном месте.</value>
+</data>
+<data name="Prompt62" xml:space="preserve">
+	<value>Ошибка:</value>
+</data>
+<data name="Prompt63" xml:space="preserve">
+	<value>Этот процесс может занять несколько минут, а на экране, возможно, буду открываться и закрываться другие окна — это нормально.  НЕ ОСТАНАВЛИВАЙТЕ процесс до его завершения.</value>
+</data>
+<data name="Prompt64" xml:space="preserve">
+	<value>Нажав "Изменить пароль", НЕ СОВЕРШАЙТЕ никаких действий на этом компьютере, пока не завершится процесс!</value>
+</data>
+<data name="Prompt65" xml:space="preserve">
+	<value>По завершению вы увидите соответствующее сообщение.</value>
+</data>
+<data name="Prompt66" xml:space="preserve">
+	<value>Введите свой новый пароль</value>
+</data>
+<data name="Prompt67" xml:space="preserve">
+	<value>Изменить пароль</value>
+</data>
+<data name="Prompt68" xml:space="preserve">
+	<value>Не меняйте пароль</value>
+</data>
+<data name="Prompt69" xml:space="preserve">
+	<value>Обратитесь в службу IT-поддержки для установки программы TrueCrypt® в системе.  Вы не можете пользоваться этой программой, пока это не сделано.</value>
+</data>
+<data name="Prompt70" xml:space="preserve">
+	<value>Не удалось поменять пароль.</value>
+</data>
+<data name="Prompt71" xml:space="preserve">
+	<value>Нажмите "ОК", чтобы завершить изменение пароля.</value>
+</data>
+<data name="Prompt72" xml:space="preserve">
+	<value>Загрузка</value>
+</data>
+<data name="Prompt73" xml:space="preserve">
+	<value>Установка</value>
+</data>
+<data name="Prompt74" xml:space="preserve">
+	<value>Начать обновление</value>
+</data>
+<data name="Prompt75" xml:space="preserve">
+	<value>Выйти из обновления</value>
+</data>
+<data name="Prompt76" xml:space="preserve">
+	<value>ПРИМЕЧАНИЕ: загрузка и обновление может занять несколько минут, в зависимости от скорости Интернета. </value>
+</data>
+<data name="Prompt77" xml:space="preserve">
+	<value>Не останавливайте и не прерывайте этот процесс.  Когда процесс будет закончен, вы увидите соответствующее сообщение.</value>
+</data>
+<data name="Prompt78" xml:space="preserve">
+	<value>Не удалось обновить информацию.</value>
+</data>
+<data name="Prompt79" xml:space="preserve">
+	<value>Повторите попытку позже.</value>
+</data>
+<data name="Prompt80" xml:space="preserve">
+	<value>Готово!</value>
+</data>
+<data name="Prompt81" xml:space="preserve">
+	<value>Вы не можете использовать этот USB, пока не поменяете пароль.</value>
+</data>
+<data name="Prompt82" xml:space="preserve">
+	<value>Не удалось обновить программное обеспечение.</value>
+</data>
+<data name="Prompt83" xml:space="preserve">
+	<value>Существует более новая версия рабочей программы.  (Не контент)  Подождите, пока программа будет загружена и установлена.</value>
+</data>
+<data name="Prompt84" xml:space="preserve">
+	<value>Я забыл пароль</value>
+</data>
+<data name="Prompt85" xml:space="preserve">
+	<value>Пароль к электронному адресу</value>
+</data>
+<data name="Prompt86" xml:space="preserve">
+	<value>Нет соединения с Интернетом</value>
+</data>
+<data name="Prompt87" xml:space="preserve">
+	<value>Пароль был выслан на электронный адрес, зарегистрированный для этого USB. </value>
+</data>
+<data name="Prompt88" xml:space="preserve">
+	<value>Для получения понадобиться какое-то время.</value>
+</data>
+<data name="Prompt89" xml:space="preserve">
+	<value>Последующий доступ или обновление этого USB не допускается, или произошла ошибка при регистрации.</value>
+</data>
+<data name="Prompt90" xml:space="preserve">
+	<value>Если вы считаете, что это ошибка, обратитесь в службу технической поддержки.</value>
+</data>
+<data name="Prompt91" xml:space="preserve">
+	<value>Выход</value>
+</data>
+<data name="Prompt92" xml:space="preserve">
+	<value>Вы ввели неверный пароль или отменили вход в программу с использованием пароля.  Сейчас программа перестанет работать.</value>
+</data>
+<data name="Prompt93" xml:space="preserve">
+	<value>Неверный пароль!</value>
+</data>
+<data name="Prompt94" xml:space="preserve">
+	<value>Скопируйте выборку в буфер обмена</value>
+</data>
+<data name="Prompt95" xml:space="preserve">
+	<value>Закройте это окно</value>
+</data>
+<data name="Prompt96" xml:space="preserve">
+	<value>У вас нет прав на установку программ на этом компьютере.</value>
+</data>
+<data name="Prompt100" xml:space="preserve">
+	<value>Информация, доступ к которой вы пытаетесь получить, зашифрована и защищена паролем.</value>
+</data>
+<data name="Prompt101" xml:space="preserve">
+	<value>Похоже, что это</value>
+</data>
+<data name="Prompt102" xml:space="preserve">
+	<value>Чтобы получить доступ к этой информации, вы можете установить программу шифрования TrueCrypt® на этом компьютере или использовать права администратора.</value>
+</data>
+<data name="Prompt103" xml:space="preserve">
+	<value>Если вы установите TrueCrypt® на этом компьютере, это сообщение больше не будет выводиться.</value>
+</data>
+<data name="Prompt104" xml:space="preserve">
+	<value>Вы хотите установить TrueCrypt® сейчас?</value>
+</data>
+<data name="Prompt105" xml:space="preserve">
+	<value>Установить</value>
+</data>
+<data name="Prompt106" xml:space="preserve">
+	<value>Не устанавливайте</value>
+</data>
+<data name="Prompt107" xml:space="preserve">
+	<value>Запустить</value>
+</data>
+<data name="Prompt108" xml:space="preserve">
+	<value>Сейчас будет установлен TrueCrypt®, и это займет небольшой период времени. </value>
+</data>
+<data name="Prompt109" xml:space="preserve">
+	<value>Чтобы получить доступ к этой информации, вам необходимо установить программу шифрования TrueCrypt® на этом компьютере.</value>
+</data>
+<data name="Prompt11=" xml:space="preserve">
+	<value>ыбрать</value>
+</data>
+<data name="Prompt110" xml:space="preserve">
+	<value>Не удалось установить TrueCrypt®.  Обратитесь в службу IT-поддержки.</value>
+</data>
+<data name="Prompt111" xml:space="preserve">
+	<value>Если у вас есть доступ к имени пользователя и паролю администратора, щелкните по программе правой кнопкой мыши и выберите опцию "Запустить от имени администратора".</value>
+</data>
+<data name="Prompt112" xml:space="preserve">
+	<value>Обратитесь в службу IT-поддержки за помощью.</value>
+</data>
+<data name="Prompt113" xml:space="preserve">
+	<value>Обновите страницу, чтобы увидеть руководство</value>
+</data>
+<data name="Prompt114" xml:space="preserve">
+	<value>Проблема соединения с сайтом</value>
+</data>
+<data name="Prompt115" xml:space="preserve">
+	<value>Повторите попытку позже.</value>
+</data>
+<data name="Prompt116" xml:space="preserve">
+	<value>USB блокирован.</value>
+</data>
+<data name="Prompt117" xml:space="preserve">
+	<value>Вы использовали все попытки для введения верного пароля.</value>
+</data>
+<data name="Prompt118" xml:space="preserve">
+	<value>При первоначальной регистрации использовался другой USB.</value>
+</data>

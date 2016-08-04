@@ -1,0 +1,7 @@
+--2010-06-22 12:53:21--  ftp://test:*password*@ftp.usbupdates.com/
+           => `.listing'
+Resolving ftp.usbupdates.com... 69.89.31.233
+Connecting to ftp.usbupdates.com|69.89.31.233|:21... connected.
+Logging in as test ... 
+Login incorrect.
+unlink: No such file or directory

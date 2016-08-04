@@ -1,0 +1,98 @@
+<!-- saved from url=(0013)about:internet -->
+<HTML LANG="en">
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8" />
+<TITLE>Operations Manual</TITLE>
+<SCRIPT SRC="AC_OETags.js" LANGUAGE="javascript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 9;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Minor version of Flash required
+var requiredRevision = 0;
+// -----------------------------------------------------------------------------
+// -->
+</SCRIPT>
+<STYLE TYPE="text/css">
+<!--
+body {
+font-family: Verdana, Geneva, sans-serif;
+font-size: 14px;
+background-color: #FFF;
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+body,td,th {
+color: #039;
+}
+a:link {
+color: #930;
+}
+a:hover {
+color: #F00;
+text-align: center;
+}
+-->
+</STYLE>
+</HEAD>
+
+<BODY>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+
+function getURLParam(strParamName)
+{
+var strReturn = "";
+var strHref = window.location.href;
+if ( strHref.indexOf("?") > -1 )
+{
+var strQueryString = strHref.substr(strHref.indexOf("?")).toLowerCase();
+var aQueryString = strQueryString.split("&");
+for ( var iParam = 0; iParam < aQueryString.length; iParam++ )
+{
+if (aQueryString[iParam].indexOf(strParamName.toLowerCase() + "=") > -1 )
+{
+var aParam = aQueryString[iParam].split("=");
+strReturn = aParam[1];
+break;
+}
+}
+}
+return unescape(strReturn);
+}
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+// Version check based upon the values entered above in "Globals"
+var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
+// Check to see if the version meets the requirements for playback
+if (hasReqestedVersion) {
+// if we've detected an acceptable version
+// embed the Flash Content SWF when all tests are passed
+AC_FL_RunContent(
+"src", "movie",
+"width", "100%",
+"height", "100%",
+"align", "middle",
+"id", "flashMovie",
+"quality", "high",
+"bgcolor", "#FFFFFF",
+"allowFullScreen", "true",
+"scale", "noscale",
+"name", "flashMovie",
+"allowScriptAccess","sameDomain",
+"type", "application/x-shockwave-flash",
+'codebase', 'http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab',
+"pluginspage", "http://www.adobe.com/go/getflashplayer"		
+);
+} else {  // flash is too old or we can't detect the plugin
+var alternateContent = '<TABLE HEIGHT="100%" WIDTH="100%  BORDER="1">'
++ '<tr>'
++ '<td ALIGN="CENTER" VALIGN="MIDDLE">'
++ '

@@ -1,0 +1,5 @@
+'
++ '<p>'
++ '<A HREF="http://www.adobe.com/go/getflashplayer">'
++ '<IMG SRC="160x41_Get_Flash_Player.jpg" BORDER="0">'
++ '</A>'

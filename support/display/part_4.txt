@@ -1,0 +1,4 @@
+</P>
+<A HREF="http://www.adobe.com/go/getflashplayer">
+<IMG SRC="160x41_Get_Flash_Player.jpg" ALT="Get Adobe Flash" WIDTH="160" HEIGHT="41" BORDER="0">
+</A>
