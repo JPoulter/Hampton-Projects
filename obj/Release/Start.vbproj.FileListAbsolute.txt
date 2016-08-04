@@ -1,0 +1,79 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\bin\Release\Start.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\bin\Release\Start.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\bin\Release\Start.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\obj\Release\Start.form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\obj\Release\Start.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\obj\Release\Start.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\obj\Release\Start.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\obj\Release\Start.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Start\obj\Release\Start.pdb
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.exe
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.xml
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.pdb
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.exe
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.pdb
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.xml
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\ResolveAssemblyReference.cache
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.form1.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.Resources.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.vbproj.GenerateResource.Cache
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.exe.config
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.Form2.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Interop.Acrobat.dll
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.vbproj.ResolveComReference.cache
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.Form3.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Interop.Acrobat.dll
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.update.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.register_restaurant.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.register_usb.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.eula.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\fr\Start.resources.dll
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.register_usb.fr.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\fr\Start.resources.dll
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.changeTCPassword.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\AutoUpdate.dll
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.login.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.installTC.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.exe.manifest
+F:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.application
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.TrustInfo.xml
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.exe.manifest
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.application
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.selectLanguage.resources
+F:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.installTCgeneric.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.exe.config
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Interop.Acrobat.dll
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.vbproj.ResolveComReference.cache
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.exe
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.xml
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.pdb
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.exe.manifest
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.application
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.exe
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.pdb
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Start.xml
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\fr\Start.resources.dll
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\AutoUpdate.dll
+D:\Development Projects\Burger King\Coding\Start\Start\Start\bin\Release\Interop.Acrobat.dll
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\ResolveAssemblyReference.cache
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.changeTCPassword.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.eula.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.form1.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.Form2.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.Form3.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.installTC.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.installTCgeneric.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.login.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.Resources.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.register_restaurant.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.register_usb.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.selectLanguage.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.update.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.register_usb.fr.resources
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.vbproj.GenerateResource.Cache
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\fr\Start.resources.dll
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.TrustInfo.xml
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.exe.manifest
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.application
+D:\Development Projects\Burger King\Coding\Start\Start\Start\obj\Release\Start.typeOfRegistration.resources
