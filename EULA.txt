@@ -1,0 +1,62 @@
+﻿END USER ACCESS AND LICENSE AGREEMENT
+This End User Access and License Agreement (“EULA”) and any other agreement executed by your employer or other authorized user of Software and Content (as those terms are defined below) sets forth the terms and conditions that apply to your access and use of the Software and the Content.  The term “Software” as used in this EULA means the “In-A-Flash” access and page-flipping software and other software used in conjunction with the Content.   The term “Content” as used in this EULA means any version of the BURGER KING® Restaurant Operations Manual and other documentation  (the “Content”) made available to you or your employer by Burger King Corporation or any of its affiliates or any party acting on its or their behalf (“BKC”).  If you do not agree with the EULA, please do not use the USB-enabled flash drive that contains the Software and the Content, or otherwise use or access the Software or the Content by this means or any other means.
+
+Applicability of the Terms of Use
+This EULA shall to apply to you, BKC and your employer.
+
+Your Right to Access and Use the and the Content
+The right to access and use the Software and the Content is personal to your employer and any of its authorized employees and Affiliates for internal business purposes only, and is not transferable by you to any other person or entity.
+
+You are only entitled to access and use the Software and the Content for lawful purposes and pursuant to the terms and conditions of this EULA and the Agreement. 
+
+By accessing and using the Software and/or Content, you agree to comply with all of the terms and conditions of this EULA, the Agreement, and all other agreements applicable to your use of the Software and the Content.
+Any action by you that, as determined by BKC, in its sole discretion, restricts, inhibits or prevents you or any other user from accessing, using or enjoying the Software or the Content shall not be permitted, and may result in your loss of the right to access and use the Software and the Content and a termination of this Agreement.
+
+Intellectual Property Rights
+The Software and the Content accessed by you using the USB-enabled flash drive or any other means are either the property of BKC or a third party licensor, and can only be used with the express permission of BKC.  The use of the Software or the Content by you, or anyone else authorized by your employer or any affiliate of your employer, is prohibited unless specifically permitted by this Agreement or any other agreement that grants you or your employer access to and use of the Content.  Any unauthorized use of the Software or the Content may violate copyright laws, trademark laws and other laws and regulations, and the intellectual property rights of BKC and other parties.
+
+The trademarks, logos, and service marks (collectively the “Trademarks”) displayed on any of the USB-enabled flash drive, including, without limitation, the names “Burger King,” “Burger King Corporation,” “BK,” “BKC,”, Hampton,” and “In-A-Flash” and their respective logos are registered and unregistered Trademarks of BKC or its rightful owners.  Nothing contained in this Agreement should be construed as granting any license or right to use any Trademark displayed on the USB-enabled flash drive, the Software or in the Content without the written permission of BKC or such third party owners of the Trademarks.  Your misuse of the Trademarks displayed on the USB-enabled flash drive, the Software or the Content, or any other content, except as provided in this EULA, is strictly prohibited.  You are also advised BKC will aggressively enforce its intellectual property rights to the fullest extent of the law, including the seeking of criminal prosecution.
+
+The Content contained on the USB-enabled flash drive or other location are copyrighted by BKC, which also own a copyright of a collective work in the selection, coordination, arrangement and enhancement of the Content.  The Content also constitutes proprietary information and trade secrets of BKC, which you and your employer (if a Franchisee) are obligated to maintain in strict confidence, or if your employer is BKC, you are required to maintain in strict confidence as a condition of your employment.
+
+Without the prior written consent of BKC, you may not print, download or otherwise use the Content other than in connection with your internal business operations as a BKC franchisee or as a BURGER KING® restaurant operator or manager and in compliance with this EULA.  Except as otherwise permitted under the copyright laws of the United States, no copying, distribution, redistribution, transmission, publication or use of the Content is permitted without the express prior written permission of BKC or its licensors.  
+
+You agree that using the Content or the Software in accordance with this EULA does not entitle you to any ownership or intellectual property rights in the Content or the Software. Other than as expressly set forth in this EULA, no license or other rights in or to the Content or the Software are granted to you or your employer, and all such licenses and rights are hereby expressly reserved. BKC shall have a royalty-free, worldwide, perpetual license to use or incorporate into the Content or the Software any suggestions, ideas, enhancement requests, feedback, recommendations or other information provided by you relating to the Software or the Content. 
+
+You and your employer shall be solely responsible for any damage resulting from your infringement of BKC or any third party’s intellectual property, or any other harm incurred by BKC as a direct or indirect result of your copying, distributing, redistributing, transmitting, publication or use for purposes other than the personal, non-commercial use of the Trademarks, the Software or the Content that is contrary to the terms and conditions of this EULA.
+
+No Representations or Warranties Regarding Content
+OTHER THAN AS MAY BE OTHERWISE PROVIDED IN ANY OTHER AGREEMENT GRANTING YOU ACCESS AND USE OF THE SOFTWARE AND THE CONTENT BETWEEN BKC AND YOU OR YOUR EMLOYER: 
+•	THE CONTENT IS BEING PROVIDED TO YOU ON AN “AS-IS” BASIS.
+•	BKC DOES NOT MAKE ANY REPRESENTATIONS, WARRANTIES OR GUARANTEES, EXPRESS OR IMPLIED, REGARDING THE ACCURACY, CORRECTNESS, OR COMPLETENESS OF THE CONTENT, NOR THE SAFETY, RELIABILITY, TITLE, MERCHANTABILITY, CONFORMITY OR FITNESS OR A PARTICULAR PURPOSE OF THE CONTENT.
+•	BKC MAKES NO REPRESENTATION, WARRANTY OR GUARANTEE THAT ANY CONTENT AVAILABLE FOR ACCESS IS FREE OF INFECTION FROM ANY VIRUSES, WORMS, TROJAN HORSES, TRAP DOORS, BACK DOORS, EASTER EGGS, TIME BOMBS, CANCELBOTS OR OTHER CODE OR COMPUTER PROGRAMMING ROUTINES THAT CONTAIN CONTAMINATING OR DESTRUCTIVE PROPERTIES OR THAT ARE INTENDED TO DAMAGE, DETRIMENTALLY INTERFERE WITH, SURREPTITIOUSLY INTERCEPT OR EXPROPRIATE ANY SYSTEM, DATA OR PERSONAL INFORMATION.
+
+Equipment and Related Costs
+You are responsible for obtaining and maintaining all telephone, computer hardware and other equipment needed to access and use the Software and the Content, and to otherwise use the USB-enabled flash drive in accordance with this EULA and the Agreement.
+Limitations on BKC’s Liability. BKC SHALL IN NO EVENT BE RESPONSIBLE OR LIABLE TO YOU OR ANY THIRD PARTY, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR ANY LOSS OF PROFIT, REVENUE OR BUSINESS, AS A RESULT OF:
+•	YOUR ACCESS AND USE OF ANY OF THE SOFTWARE OR THE CONTENT.
+•	YOUR ACCESS AND USE OF ANY OF THE SOFTWARE OR THE CONTENT IN VIOLATION OF THIS EULA OR THE AGREEMENT.
+
+Indemnification
+You shall defend, indemnify and hold harmless BKC, its subsidiaries and affiliates and each of its respective officers, directors, shareholders, employees, independent contractors, agents, representatives and affiliates from and against all claims and expenses, including attorneys’ fees, arising out of, or attributable to: (i) any breach or violation of this EULA by you; and (ii) any access or use of any of the Software in violation of this EULA or the Agreement.
+
+Third Party Rights
+This EULA is for the benefit of BKC, its subsidiaries, affiliates, and third party licensors, each of which shall have the right to enforce and assert the terms and conditions of this Agreement directly against you on its behalf.
+
+Amendments
+BKC reserves the right to amend the EULA at any time in its sole discretion and without notice.  Changes, revisions or deletions with regard to this EULA shall be effective immediately upon its transmission to you and your access of the Content using the Software.
+
+Your continued access and use of the Software and the Content following the posting of any such changes shall automatically be deemed your acceptance of the same.
+
+Remedies
+You acknowledge that BKC may be irreparably damaged if this EULA is not specifically enforced, and damages at law would be an inadequate remedy.  Therefore, in the event of a breach or threatened breach of any provision of the EULA by you, BKC shall be entitled, in addition to all rights and remedies available at law, in equity or under the terms of any other agreement, to an injunction restraining such breach or threatened breach, without being required to show any actual damage or to post an injunction bond, and/or to a decree for specific performance of the provisions of the EULA.
+
+You agree that exclusive venue for any suit arising under this EULA shall be Miami-Dade County, Florida, or the Southern District of Florida sitting in Miami, Florida, as appropriate.  You consent to the jurisdiction of such court and waive any objection to the setting of the venue of any such action or proceeding in such court.  You agree that service of any court paper may be effected on such party by mail or in such other manner as may be provided under applicable laws, rules of procedure or local rules.
+
+Miscellaneous
+This EULA shall be construed and enforced under and in accordance with the laws of the State of Florida, without regard to conflicts of laws principles.
+
+If any portion of this EULA is deemed unlawful, void or unenforceable by any court of competent jurisdiction, this EULA as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of the EULA that is unlawful, void or unenforceable shall be stricken from the EULA.
+
+The headings contained in the EULA are for convenience of reference only, are not to be considered a part of the EULA, and shall not limit or otherwise affect in any way the meaning or interpretation of the EULA.
+All covenants, agreements, representations and warranties made in the EULA, as may be amended by BKC from time to time, shall survive your acceptance of the EULA.
