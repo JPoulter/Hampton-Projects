@@ -1,0 +1,46 @@
+''' <summary>
+''' Tell the worker to fire progress changed events, then start it
+''' </summary>
+
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+
+   With Me.BackgroundWorker1
+      .WorkerReportsProgress = True
+      .RunWorkerAsync("C:\temp\bigfile.txt")
+   End With
+End Sub
+
+''' <summary>
+''' This method is where we do the background work. I'm just reading a file as an example.
+''' Each time a line is read, we fire a ProgressChanged event and pass the line that was 
+''' read as an argument. 
+''' 
+''' Note that we can't update the UI in the DoWork method, but we can fire events ''' and update the UI in the handler(s) for that event.
+''' </summary>
+
+Private Sub BackgroundWorker1_DoWork(ByVal sender As Object, ByVal e As System.ComponentModel.DoWorkEventArgs) Handles BackgroundWorker1.DoWork
+
+   Dim filename As String = e.Argument
+
+   Using reader As New System.IO.StreamReader(filename)
+      While Not reader.EndOfStream
+         Me.BackgroundWorker1.ReportProgress(0.0, reader.ReadLine())
+      End While
+   End Using
+End Sub
+
+''' <summary>
+''' You can change UI in the ProgressChanged event
+''' </summary>
+
+Private Sub BackgroundWorker1_ProgressChanged(ByVal sender As Object, ByVal e As System.ComponentModel.ProgressChangedEventArgs) Handles BackgroundWorker1.ProgressChanged
+   Me.ListBox1.Items.Add(e.UserState)
+End Sub
+
+''' <summary>
+''' You can also update UI in the RunWorkCompletedHandler
+''' </summary>
+
+Private Sub BackgroundWorker1_RunWorkerCompleted(ByVal sender As Object, ByVal e As System.ComponentModel.RunWorkerCompletedEventArgs) Handles BackgroundWorker1.RunWorkerCompleted
+   MsgBox("Done reading the file!")
+End Sub
